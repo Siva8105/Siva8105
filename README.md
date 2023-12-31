@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siva8105
-- 👀 I’m interested in learn new things
-- 🌱 I’m currently learning ECE
+-  I’m interested in learn new things
+-  ECE STUDENT
 - 📫 sivakumarsk0828@gmail.com
 
 <!---
